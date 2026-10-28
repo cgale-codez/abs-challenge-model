@@ -1,0 +1,6 @@
+# data files (large, or private program data) - keep these OUT of GitHub
+*.csv
+trackman/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
